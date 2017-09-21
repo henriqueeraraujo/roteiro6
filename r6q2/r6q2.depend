@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1506001081 source:/home/henrique/Documentos/roteiro6/r6q2/main.cpp
+	<iostream>
+	"TelevisaoTeste.h"
+
+1505999583 source:/home/henrique/Documentos/roteiro6/r6q2/src/Televisao.cpp
+	"Televisao.h"
+
+1505999543 /home/henrique/Documentos/roteiro6/r6q2/include/Televisao.h
+	<stdio.h>
+
+1506001138 /home/henrique/Documentos/roteiro6/r6q2/include/TelevisaoTeste.h
+	"Televisao.h"
+	<iostream>
+
+1506001096 source:/home/henrique/Documentos/roteiro6/r6q2/src/TelevisaoTeste.cpp
+	"TelevisaoTeste.h"
+
