@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1506185786 source:/home/henrique/Documentos/roteiro6/r6q3/main.cpp
+	<iostream>
+	"RestauranteCaseiro.h"
+
+1506184129 source:/home/henrique/Documentos/roteiro6/r6q3/src/MesaDeRestaurante.cpp
+	"MesaDeRestaurante.h"
+
+1506183117 /home/henrique/Documentos/roteiro6/r6q3/include/MesaDeRestaurante.h
+	<string>
+	"Pedido.h"
+	<iostream>
+
+1506176440 /home/henrique/Documentos/roteiro6/r6q3/include/Pedido.h
+	<stdio.h>
+	<string>
+
+1506176594 source:/home/henrique/Documentos/roteiro6/r6q3/src/Pedido.cpp
+	"Pedido.h"
+
+1506185877 source:/home/henrique/Documentos/roteiro6/r6q3/src/RestauranteCaseiro.cpp
+	"RestauranteCaseiro.h"
+
+1506184347 /home/henrique/Documentos/roteiro6/r6q3/include/RestauranteCaseiro.h
+	"MesaDeRestaurante.h"
+
